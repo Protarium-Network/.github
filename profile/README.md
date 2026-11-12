@@ -2,11 +2,11 @@
 
 # 🌐 Protarium Network
 
-**Bringing back online play for Wii U games that will never be supported on other platforms.**
+**Bringing back online play for Nintendo Wii U & Nintendo 3DS games that will never be supported on other platforms.**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://protarium.online)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/protariumnetwork)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Protarium-Network)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Protarium-Network)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👋 Welcome to Protarium Network
 
-Protarium Network is a community-run server project dedicated to **recreating the online services of games that are not supported by [Pretendo](https://pretendo.network)**.
+Protarium Network is a community-run server project dedicated to **recreating the online services of games that are not supported by [Pretendo Network](https://pretendo.network)**.
 
-When the official servers shut down, many online games were left unplayable. Pretendo does amazing work reviving a large part of the Wii U and 3DS catalog, but some titles still fall through the cracks. That's where we come in: we aim to fill the gaps and give those games their online multiplayer back.
+When the official servers shut down, many online games were left unplayable. Pretendo Network does amazing work reviving a large part of the Nintendo Wii U & Nintendo 3DS catalog, but some titles still fall through the cracks. That's where we come in: we aim to fill the gaps and give those games their online multiplayer back.
 
 ## 🎮 Games We're Working On
 
@@ -36,7 +36,7 @@ When the official servers shut down, many online games were left unplayable. Pre
 
 ## ⚠️ Disclaimer
 
-Protarium Network is an independent, non-profit fan project. We are **not affiliated with, endorsed by, or connected to** Pretendo, Nintendo, Activision, Electronic Arts, or any other game publisher or developer. All game names, trademarks and logos belong to their respective owners.
+Protarium Network is an independent, non-profit fan project. We are **not affiliated with, endorsed by, or connected to** Pretendo, Nintendo, Activision, Electronic Arts, Ubisoft, or any other game publisher or developer. All game names, trademarks and logos belong to their respective owners.
 
 ---
 
